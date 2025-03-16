@@ -14,7 +14,7 @@ Today, I built a **click and drag scrolling feature**, allowing users to smoothl
 ✅ **Applying `e.preventDefault()`** for smooth interaction 🔄  
 ✅ **Adding and removing CSS classes dynamically** ✨  
 
-🔗 **Live Demo:** [Check it out here!](Your_Live_Demo_Link)  
+🔗 **Live Demo:**   https://khushal1208.github.io/27---Click-and-Drag/
 
 💡 **Real-World Applications:**  
 📌 **Image galleries** with draggable navigation 🖼️  
